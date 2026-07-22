@@ -1,5 +1,7 @@
 # sml-xml
 
+[![CI](https://github.com/sjqtentacles/sml-xml/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-xml/actions/workflows/ci.yml)
+
 A pure-Standard-ML **XML toolkit**: a recursive-descent parser, an in-memory
 DOM, and a well-formed serializer, with XML-namespace support. No FFI, no C —
 just the Basis Library plus one vendored pure-SML dependency. Deterministic and
